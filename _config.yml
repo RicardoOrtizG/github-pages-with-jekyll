@@ -4,7 +4,7 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
 This is the result of developing the github pages learning lab tutorial. I hope it looks good and helpme to build something more... awsome.
 
-theme: minima
+theme: minimal
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
