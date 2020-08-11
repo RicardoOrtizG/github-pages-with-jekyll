@@ -1,8 +1,7 @@
 title: My first awsome page in github
 author: Ricardo
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-This is the result of developing the github pages learning lab tutorial. I hope it looks good and helpme to build something more... awsome.
+description: This is the result of developing the github pages learning lab tutorial. I hope it looks good and helpme to build something more... awsome.
 
 theme: minimal
 
