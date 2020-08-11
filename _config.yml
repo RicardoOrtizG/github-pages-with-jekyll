@@ -3,7 +3,7 @@ author: Ricardo
 email: your-email@domain.com
 description: This is the result of developing the github pages learning lab tutorial. I hope it looks good and helpme to build something more... awsome.
 
-theme: midnight
+theme: minima
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
